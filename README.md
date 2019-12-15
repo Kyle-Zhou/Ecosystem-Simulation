@@ -5,4 +5,4 @@
 - Practise w/ principles of Object Oriented Design
 
 ![screenshot]
-()
+(https://github.com/Kyle-Zhou/Ecosystem-Simulation/blob/master/ecosystem%20Screenshot.png)
