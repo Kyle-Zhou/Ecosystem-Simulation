@@ -4,5 +4,4 @@
 - Graphics with JFrame
 - Practise w/ principles of Object Oriented Design
 
-![screenshot]
-(https://Documents/ecosystemScreenshot.png)
+
