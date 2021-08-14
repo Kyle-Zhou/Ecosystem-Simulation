@@ -13,9 +13,9 @@
 
 ### Technical Details
 
-# Intro to object-oriented programming
+Basic object-oriented programming principles
 ![image](https://user-images.githubusercontent.com/51883176/129431113-7ea0b638-6450-4b60-ab3c-b48d89ceac1b.png)
 
-# Graphics with JFrame
+Graphics with JFrame
 ![image](https://user-images.githubusercontent.com/51883176/129431119-46163c46-b5f5-4385-bec2-891b9229766f.png)
 
